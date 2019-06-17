@@ -1,5 +1,5 @@
 window.onload = function(){
-
+    cambiar()
 }
 
 function cambiar() {
@@ -8,8 +8,8 @@ function cambiar() {
 }
 
 
-let who = ['el perro','mi abuela','su tortuga','mi pajaro'];
-let what = ['come','cabreado','aplastado ','quebrado'];
-let when = ['antes de clase','justo a tiempo','cuando termine','durante mi almuerzo','mientras estaba meditando'];
+let who = ['the dog','my granma','his turtle','my bird'];
+let what = ['eat','pissed','crushed','broked'];
+let when = ['before the class','right in time','when I finished','during my lunch','while I was praying'];
 let excuse = 'hola';
 
